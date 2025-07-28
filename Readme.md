@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Reupload for own Preservation
+
 # Discord Wetter Status
 
 Dieses Programm aktualisiert deinen Discord-Status mit dem aktuellen Wetter und der aktuellen Uhrzeit für einen bestimmten Ort. Es ruft Wetterdaten von der WeatherAPI ab und aktualisiert deinen Discord-Status jede Minute.
